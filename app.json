@@ -91,7 +91,7 @@
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
       "required": true,
-      "value": "replit"
+      "value": "codespace"
     },
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
